@@ -13,5 +13,6 @@ public class salir_aplicacion : MonoBehaviour
         #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
         #endif
+        
     }
 }

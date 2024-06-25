@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: 62b2bf7f3e13686419e5e0febaf7f70a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serpientes-Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5430
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d528164e4f595a4190a9bbdbd197a62
+      internalID: -779399139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 5430
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce5dc6f43a28ac4fab70d1ef9f5c1c5
+      internalID: 951117136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 5430
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612ebd4823439d4ba1e2c3f1ab3e29f
+      internalID: -555448183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5430
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fca2e1b95bc6c4da473d8df5715dfd
+      internalID: 1373054165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 5430
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ff11655c9e774ab164b6bec79061d
+      internalID: -2029599417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 5430
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5871c86908eb27d45be9fc773ffa0151
+      internalID: -332834965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 5430
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9190d4a8161a4c44bc9c9f29be86b56
+      internalID: 597677609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 5430
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7572646dba49dab4dbec66174fec6852
+      internalID: -906087251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 5430
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d515bd672feb4e9bc48113b6315c0
+      internalID: -935108821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5070
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f215e3658c6c11479a66c3bfcac3999
+      internalID: 73805643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 5117
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123390de50552694fa1664cf84d836d9
+      internalID: -56557645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 5117
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be039c6d524a7ae4882ff1b8d6c2d6c8
+      internalID: -1271814481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5070
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab614b56f43f54987fd8dbefe60da7
+      internalID: -1375120052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 5117
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849178369a9a604daef23afd001b84a
+      internalID: 1365899079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 5117
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0a17714b663c346a1c1fe92fb3bdb0
+      internalID: -959236353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 5070
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6370db8647f6469152296ae4c9373
+      internalID: -37407453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 5117
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1af6443f7a70e499110fd5f2e62bac
+      internalID: -1891739124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 5117
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0672710f2d0f704c855c21236109d74
+      internalID: 817717433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4707
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762bdee454ed2949a7f82b749f4001b
+      internalID: 311007010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 4755
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a22645ba496646bc99881752074d1
+      internalID: 106304312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4724
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c823829405cee54f9bab583db87de12
+      internalID: -847445217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 4707
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6b569f1248a5468ed031fc8f268d1
+      internalID: -1686465323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 4755
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb072134a6ba640a622d040004f38f
+      internalID: 2045616681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 4724
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14cd170c5068b4294ea5cc167329a7
+      internalID: -1656304596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 4707
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d6b08d171be23439b255a3d49b1dfb
+      internalID: 947576740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 4755
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80dd745fc2a6fc49a46f9ce3e0bde7b
+      internalID: 72552421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 4724
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d9437fd151ff46b1e255b8366871a
+      internalID: 1705652721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4366
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdb7d6a56030fe48a43f373a2e44f27
+      internalID: -1868671519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 4366
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e706cdba54cbe40b4b1e3dc1a21ce6
+      internalID: -890451549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 4397
+        width: 261
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8cdc70c9a8d574cab7a5902c13f6db
+      internalID: -1505660643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 4366
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87857fd8a5cde1b4e951002d33148fc8
+      internalID: 1107510727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 4366
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b22e1aa57e864a96d3967062be452
+      internalID: -1864907834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 4397
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42965cf39dc3f6e45a48bd31112a6a23
+      internalID: 1694268173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 4366
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841889d313dfb44eab4261cc225c86c
+      internalID: 522220079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 4366
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4d6447f35dbf4ebd6f613815f0efc
+      internalID: 665336467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 4397
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d560e7c595b4014ba2bfe646b1c090e
+      internalID: 1638663822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3990
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad13c35880745ec40a599ed737122765
+      internalID: -919332551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3990
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809977a8646d5e4a8891de7a2bcf165
+      internalID: -864051032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3990
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a80f756faa00949b5144254e7feabf
+      internalID: 583151193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3990
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45d9a48f3a64e4cb83b1547d3259c4
+      internalID: -655018363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3990
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe043d2462881847afb3b06ecbd6cc1
+      internalID: 1101918487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3990
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a80c3aebfa58e4295dd3450925c2f6
+      internalID: 563621425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3990
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5010f1ad412b478c7b79885f1e9e5
+      internalID: 392538061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 3990
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b71d1897f534f47b372ed9bb22c221
+      internalID: 1968173716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 3990
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce63d6eb902c05449fe78fb0df40a4f
+      internalID: 863353747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3630
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191edf9514065a438b27e7e57737df5
+      internalID: 646310299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 3677
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82f6704fad37046bb6f0d89e51583f
+      internalID: 594343560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3677
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d93ce02b29e8046be5383fb35a5772
+      internalID: -947484825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3630
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43222ebf29227644887d77d60e4d8e27
+      internalID: -1948337314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 3677
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bcbd167d35b354383d68dbe3925cb8
+      internalID: 1941394817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 3677
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8d49618cbec9429f50aa84dab6494
+      internalID: 1608333744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3630
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972efc74ff4ba24ca00b3dea32e12fb
+      internalID: 1884675423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 3677
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef015d520798042bd76251201fff2b
+      internalID: 547282755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 3677
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9cca983d2faf94d9eb869b02fe8f6b
+      internalID: -1471201334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3267
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce5542be14c4d4f8baa949dc7cf94f
+      internalID: -1991424196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 3315
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12948e43ecd3024795b2d544fb572c0
+      internalID: -2042456561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3284
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038f23430f303c478b7cccf1cdb8437
+      internalID: 209544124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3267
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05126e11c58262743a1c4a6fc8b3d552
+      internalID: 56529023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 3315
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592acb053d1c4a34d8a827b7f25b5f2d
+      internalID: 1260282308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 3284
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e56078b177014d90253f9faae5d0f
+      internalID: -1253611016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3267
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092f61c76376d564eb9703294f3be1bb
+      internalID: -1365845084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 3315
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b53fff37d89f14cbf134f12b991f57
+      internalID: -268507776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 3284
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2535d88ec81bca49a0548700a960c30
+      internalID: 1571981674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2926
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc06ea6daa42c84f8719e28b55c9314
+      internalID: -1632905375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2926
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec52912247c684418a86e5c228c13ca
+      internalID: -1498200945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2957
+        width: 261
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca9c9811f197764ea180236b9fd817d
+      internalID: -770618858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2926
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1146fd98b94acb4b93a244f0bab64dd
+      internalID: -1816633175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2926
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6042debf602b7c4a8fddc63dd34bfcd
+      internalID: 2129592452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2957
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee8fd91d80c734d8c3b0e627040499
+      internalID: 1313384764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 2926
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ccc7a61a355a45b182eabbdc2a9fe
+      internalID: 1449654659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 2926
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb4d4a039225a4ca32c9daac23ebe0
+      internalID: -23349929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 2957
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b19cae0243bf014285154fef94f3074
+      internalID: -854419223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2550
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67a9750d115f842ba356605d531da7
+      internalID: 2133513719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2550
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d68c97e174786d4b9f7745d1ced5b09
+      internalID: 436938455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2550
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c141ec3dfff904da9e3a49213b9a77
+      internalID: 1903694351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2550
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926baaa7b6be29a439befc2eb882af76
+      internalID: 1459239418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2550
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6782a731bbc141925393b4c59f611
+      internalID: 187168305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2550
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9446c4e892edb1428d15601786d5b24
+      internalID: 1150865607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2550
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cc0b1442b8a14a951170ab35a2299
+      internalID: -258731280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 2550
+        width: 542
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b10b4886fbaef48a1dee280b3ab649
+      internalID: -1882006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 2550
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc0e114c3aa884a9ca9ad49b138b5e
+      internalID: -1153867282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2190
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190385e7f95aea449901416eb007f54
+      internalID: -1829103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2237
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91013ccf306617e458125f91f6556f82
+      internalID: -915061536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2237
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1ed91851bd5a4db8e6a36a58121af
+      internalID: 776740937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2190
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc448934cf9a1f4daf38c5a7692bb08
+      internalID: 632145371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2237
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6ca739a3300940bd6a38c8b9e8d12
+      internalID: 1591118321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 2237
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0fa5e935a82244a6ab76dfa25838f
+      internalID: 1862837248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2190
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb51940f2f8074aa46c2e199f2cab5
+      internalID: -2057624067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 2237
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdac65f3472b88409a8344d871a5e2c
+      internalID: 1079253614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 2237
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9a8cd7cbb8287419fd327b028034c6
+      internalID: 2103266431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1827
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9027151ef5e0a9941b873007904be9f4
+      internalID: 238237054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1875
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129a2b67dfa89749a6f92c97d793fd9
+      internalID: -1885219174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1844
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f09042ab261346b1bfa100498c56f
+      internalID: 624687089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1827
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e68a69bb53a5940bdce2d5cfec16ad
+      internalID: -1073884311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1875
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c958ea68fa768744938d04800379da9
+      internalID: 1589132541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1844
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9985c40e1540a640813327804ad7f92
+      internalID: -1769476500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1827
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a56a7c1cb193547a50c922d202df26
+      internalID: 1816692307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 1875
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff6502297836a448e0237df76e9ac3
+      internalID: -800842320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 1844
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23ed9dd41d06549bb20f5e4d0556a7
+      internalID: -2107687753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1486
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105ce006bbd1d14eb56361d78c278c4
+      internalID: -1097003878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1486
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2c6d5e63363648bd254d2f3d1ab09
+      internalID: -1641334645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1517
+        width: 261
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f3c2a304c13dd418a226d723b5c6d6
+      internalID: -781403326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1486
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76a5b9cfddf7c4d96097b03f6675ee
+      internalID: -925523630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1486
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9030f9f126d6f64b830e316158e3993
+      internalID: -388019364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1517
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ce49ac3c6d8a45a217ef444b7899d
+      internalID: 199168245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 1486
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49bd1551579e4343a7a3e1bcc815e2c
+      internalID: 1315650382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 1486
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268e68964762e64c86e5a8fd062fcb3
+      internalID: 2076426423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 1517
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ce5b749804ac4dbda8c5e98fb074a
+      internalID: -1836731509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1110
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be19075621bc72438ca76ba61e8f89b
+      internalID: 688679507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1110
+        width: 540
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc76c89fbd7a7a44bb5e86a5d5477ddd
+      internalID: -1088515986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1110
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20a874738e0704987bcc4756d15c53
+      internalID: 708219055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1160
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e340e33177e7c4889950cbe5580535
+      internalID: 1551000387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1160
+        width: 306
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1316575169527a488c97ef56c5dbe4c
+      internalID: 2146173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1160
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce77b077032183498dac440961b4d16
+      internalID: -827761220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 1160
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b94501e0d0e1514b9a1c0557fae05c1
+      internalID: -1061468286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 1160
+        width: 306
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da93479f190f94d8809d17bad9bf1b
+      internalID: -1170116228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 1160
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe653b967bfd045bfeaf68b27f5dfd
+      internalID: -1706553911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 750
+        width: 543
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90583c47163130744b79635ebdee5abe
+      internalID: 2128368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 797
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9467daac618ce444da0b5e9529d0f98f
+      internalID: -1314227600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 797
+        width: 205
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fdfb4c394ff54a9eebe8f7b1fe0f9
+      internalID: -406539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 800
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e8a2964b7e7741bb903072b73199a
+      internalID: 2094346122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 800
+        width: 306
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe10a1092eecb4c97b2c3a88447c02
+      internalID: -460562476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 800
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee7ba8f2cebba4cb8275cd19887e83
+      internalID: -351666544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 800
+        width: 304
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f0ece4e77894141b03f933375ac3bf
+      internalID: -1375032162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 758
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea00c55c3a1b34cb369396347744a2
+      internalID: 1870841603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 817
+        width: 253
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6160290a446ce9f4fa44469ea9bc2b0b
+      internalID: 365218819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 387
+        width: 543
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa537d96c5e0c488e36db677ac6b11
+      internalID: 1237301574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 435
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a196e31a1e8174fabdf346db309b0a
+      internalID: 2193122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 404
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd994c345be6e9a43aaaae90b42d73f9
+      internalID: -2020983582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 480
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e00473f0f76f342a17212fff3d0627
+      internalID: -1234551110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 480
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ea785aea279e48880bd5820a1a65e
+      internalID: 916076815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 480
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de9a50345a9d5438fdc901a30bca0e
+      internalID: 702751063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 480
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e2396fc2d11145979c340d38302a4
+      internalID: -1357312411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 4729
+        y: 480
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce7333d19757e4b88aae4b38234f86
+      internalID: -533795453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 480
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612548779b3fa9408f1fdc08fee2b18
+      internalID: -2112121459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 46
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2dcc7703a8e5a4fb3f5ab13c3033ae
+      internalID: -853179317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 46
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11781a6be12b342af1db70760d3f60
+      internalID: -843842289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 77
+        width: 261
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a9178baa8c2104cbea8fe6b0d25110
+      internalID: -103523219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 120
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cfe372cfe21fd4f93c4bc061b9341b
+      internalID: -503385576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 120
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1b2181be249a5459378702850c3dd0
+      internalID: -248051072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 120
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e685c5b7e4c014b8c73b4166259d3c
+      internalID: 843707013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 120
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6e82448bb37444aa916d33ff974e1
+      internalID: 1230124539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 114
+        width: 262
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b490112a87b6e40b69be52b1b0ce96
+      internalID: -1620895011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpientes-Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 97
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a766c22a0d08764ebce54228afde517
+      internalID: 1571044533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Serpientes-Sprite_0: -779399139
+      Serpientes-Sprite_1: 951117136
+      Serpientes-Sprite_10: -56557645
+      Serpientes-Sprite_100: -1641334645
+      Serpientes-Sprite_101: -781403326
+      Serpientes-Sprite_102: -925523630
+      Serpientes-Sprite_103: -388019364
+      Serpientes-Sprite_104: 199168245
+      Serpientes-Sprite_105: 1315650382
+      Serpientes-Sprite_106: 2076426423
+      Serpientes-Sprite_107: -1836731509
+      Serpientes-Sprite_108: 688679507
+      Serpientes-Sprite_109: -1088515986
+      Serpientes-Sprite_11: -1271814481
+      Serpientes-Sprite_110: 708219055
+      Serpientes-Sprite_111: 1551000387
+      Serpientes-Sprite_112: 2146173622
+      Serpientes-Sprite_113: -827761220
+      Serpientes-Sprite_114: -1061468286
+      Serpientes-Sprite_115: -1170116228
+      Serpientes-Sprite_116: -1706553911
+      Serpientes-Sprite_117: 2128368043
+      Serpientes-Sprite_118: -1314227600
+      Serpientes-Sprite_119: -406539892
+      Serpientes-Sprite_12: -1375120052
+      Serpientes-Sprite_120: 2094346122
+      Serpientes-Sprite_121: -460562476
+      Serpientes-Sprite_122: -351666544
+      Serpientes-Sprite_123: -1375032162
+      Serpientes-Sprite_124: 1870841603
+      Serpientes-Sprite_125: 365218819
+      Serpientes-Sprite_126: 1237301574
+      Serpientes-Sprite_127: 2193122
+      Serpientes-Sprite_128: -2020983582
+      Serpientes-Sprite_129: -1234551110
+      Serpientes-Sprite_13: 1365899079
+      Serpientes-Sprite_130: 916076815
+      Serpientes-Sprite_131: 702751063
+      Serpientes-Sprite_132: -1357312411
+      Serpientes-Sprite_133: -533795453
+      Serpientes-Sprite_134: -2112121459
+      Serpientes-Sprite_135: -853179317
+      Serpientes-Sprite_136: -843842289
+      Serpientes-Sprite_137: -103523219
+      Serpientes-Sprite_138: -503385576
+      Serpientes-Sprite_139: -248051072
+      Serpientes-Sprite_14: -959236353
+      Serpientes-Sprite_140: 843707013
+      Serpientes-Sprite_141: 1230124539
+      Serpientes-Sprite_142: -1620895011
+      Serpientes-Sprite_143: 1571044533
+      Serpientes-Sprite_15: -37407453
+      Serpientes-Sprite_16: -1891739124
+      Serpientes-Sprite_17: 817717433
+      Serpientes-Sprite_18: 311007010
+      Serpientes-Sprite_19: 106304312
+      Serpientes-Sprite_2: -555448183
+      Serpientes-Sprite_20: -847445217
+      Serpientes-Sprite_21: -1686465323
+      Serpientes-Sprite_22: 2045616681
+      Serpientes-Sprite_23: -1656304596
+      Serpientes-Sprite_24: 947576740
+      Serpientes-Sprite_25: 72552421
+      Serpientes-Sprite_26: 1705652721
+      Serpientes-Sprite_27: -1868671519
+      Serpientes-Sprite_28: -890451549
+      Serpientes-Sprite_29: -1505660643
+      Serpientes-Sprite_3: 1373054165
+      Serpientes-Sprite_30: 1107510727
+      Serpientes-Sprite_31: -1864907834
+      Serpientes-Sprite_32: 1694268173
+      Serpientes-Sprite_33: 522220079
+      Serpientes-Sprite_34: 665336467
+      Serpientes-Sprite_35: 1638663822
+      Serpientes-Sprite_36: -919332551
+      Serpientes-Sprite_37: -864051032
+      Serpientes-Sprite_38: 583151193
+      Serpientes-Sprite_39: -655018363
+      Serpientes-Sprite_4: -2029599417
+      Serpientes-Sprite_40: 1101918487
+      Serpientes-Sprite_41: 563621425
+      Serpientes-Sprite_42: 392538061
+      Serpientes-Sprite_43: 1968173716
+      Serpientes-Sprite_44: 863353747
+      Serpientes-Sprite_45: 646310299
+      Serpientes-Sprite_46: 594343560
+      Serpientes-Sprite_47: -947484825
+      Serpientes-Sprite_48: -1948337314
+      Serpientes-Sprite_49: 1941394817
+      Serpientes-Sprite_5: -332834965
+      Serpientes-Sprite_50: 1608333744
+      Serpientes-Sprite_51: 1884675423
+      Serpientes-Sprite_52: 547282755
+      Serpientes-Sprite_53: -1471201334
+      Serpientes-Sprite_54: -1991424196
+      Serpientes-Sprite_55: -2042456561
+      Serpientes-Sprite_56: 209544124
+      Serpientes-Sprite_57: 56529023
+      Serpientes-Sprite_58: 1260282308
+      Serpientes-Sprite_59: -1253611016
+      Serpientes-Sprite_6: 597677609
+      Serpientes-Sprite_60: -1365845084
+      Serpientes-Sprite_61: -268507776
+      Serpientes-Sprite_62: 1571981674
+      Serpientes-Sprite_63: -1632905375
+      Serpientes-Sprite_64: -1498200945
+      Serpientes-Sprite_65: -770618858
+      Serpientes-Sprite_66: -1816633175
+      Serpientes-Sprite_67: 2129592452
+      Serpientes-Sprite_68: 1313384764
+      Serpientes-Sprite_69: 1449654659
+      Serpientes-Sprite_7: -906087251
+      Serpientes-Sprite_70: -23349929
+      Serpientes-Sprite_71: -854419223
+      Serpientes-Sprite_72: 2133513719
+      Serpientes-Sprite_73: 436938455
+      Serpientes-Sprite_74: 1903694351
+      Serpientes-Sprite_75: 1459239418
+      Serpientes-Sprite_76: 187168305
+      Serpientes-Sprite_77: 1150865607
+      Serpientes-Sprite_78: -258731280
+      Serpientes-Sprite_79: -1882006941
+      Serpientes-Sprite_8: -935108821
+      Serpientes-Sprite_80: -1153867282
+      Serpientes-Sprite_81: -1829103723
+      Serpientes-Sprite_82: -915061536
+      Serpientes-Sprite_83: 776740937
+      Serpientes-Sprite_84: 632145371
+      Serpientes-Sprite_85: 1591118321
+      Serpientes-Sprite_86: 1862837248
+      Serpientes-Sprite_87: -2057624067
+      Serpientes-Sprite_88: 1079253614
+      Serpientes-Sprite_89: 2103266431
+      Serpientes-Sprite_9: 73805643
+      Serpientes-Sprite_90: 238237054
+      Serpientes-Sprite_91: -1885219174
+      Serpientes-Sprite_92: 624687089
+      Serpientes-Sprite_93: -1073884311
+      Serpientes-Sprite_94: 1589132541
+      Serpientes-Sprite_95: -1769476500
+      Serpientes-Sprite_96: 1816692307
+      Serpientes-Sprite_97: -800842320
+      Serpientes-Sprite_98: -2107687753
+      Serpientes-Sprite_99: -1097003878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

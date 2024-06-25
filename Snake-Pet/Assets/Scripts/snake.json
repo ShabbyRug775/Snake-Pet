@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+        {
+            "ID_Usuario": "",
+            "Nombre": "",
+            "Password": "",
+            "Rutinas": [
+                {
+                    "ID_Rutina": "",
+                    "Nombre_Rutina": "",
+                    "Porcentaje_Rutina": "",
+                    "Fecha_Rutina": ""
+                }
+            ],
+            "Mascotas": [
+                {
+                    "ID_Mascota": "",
+                    "Fecha_Creacion": "",
+                    "Accesorios": [
+                        {
+                            "ID_Accesorio": "",
+                            "Nombre_Accesorio": "",
+                            "Fecha_Obtencion": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID_Usuario": "30f78a72-7818-4fb0-a098-0a6b66c18396",
+            "Nombre": "asdasd",
+            "Password": "asdasd",
+            "Rutinas": [],
+            "Mascotas": []
+        },
+        {
+            "ID_Usuario": "11eb68e1-357b-47ac-9df7-4234e66d0b95",
+            "Nombre": "Moises",
+            "Password": "si",
+            "Rutinas": [],
+            "Mascotas": []
+        }
+    ]
+}
