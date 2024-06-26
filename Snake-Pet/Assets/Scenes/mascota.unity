@@ -2305,6 +2305,14 @@ PrefabInstance:
       value: Serpiente
       objectReference: {fileID: 0}
     - target: {fileID: 8928919313911078120, guid: b0ddfb6debc84ae4d8225e939ae2cd32, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928919313911078120, guid: b0ddfb6debc84ae4d8225e939ae2cd32, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928919313911078120, guid: b0ddfb6debc84ae4d8225e939ae2cd32, type: 3}
       propertyPath: m_LocalPosition.x
       value: 522.9461
       objectReference: {fileID: 0}
