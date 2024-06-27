@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 5935803544133030195}
   - component: {fileID: 6297491298010770239}
   m_Layer: 5
-  m_Name: no_realizada
+  m_Name: EliminarButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -388,19 +388,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5935803544133030195}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 8355659707698123840, guid: 79cd2293f3c1adb4093fe88d6436a59b, type: 3}
-        m_TargetAssemblyTypeName: cambiar_escena, Assembly-CSharp
-        m_MethodName: cambiarEscena
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: mascota
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &3238011707747691641
 GameObject:
   m_ObjectHideFlags: 0
@@ -485,7 +473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7349421157470893694}
-  - component: {fileID: 3057261938454441374}
+  - component: {fileID: 6367770384415592920}
   m_Layer: 5
   m_Name: tareaGuardada
   m_TagString: Untagged
@@ -516,7 +504,7 @@ RectTransform:
   m_AnchoredPosition: {x: -60, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &3057261938454441374
+--- !u!114 &6367770384415592920
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -525,11 +513,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4198815625323578706}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28dff4ae437f4bc4cbf1844ca10515ac, type: 3}
+  m_Script: {fileID: 11500000, guid: 658ca03e0b93fb548b1d2cf89b9a78e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nombreUsuarioText: {fileID: 3315317332257260691}
-  selectButton: {fileID: 1094541489356441336}
 --- !u!1 &4765369410267263427
 GameObject:
   m_ObjectHideFlags: 0
@@ -543,7 +530,7 @@ GameObject:
   - component: {fileID: 3311669408126094858}
   - component: {fileID: 1094541489356441336}
   m_Layer: 5
-  m_Name: realizada
+  m_Name: CompletarButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -650,19 +637,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3311669408126094858}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 8355659707698123840, guid: 79cd2293f3c1adb4093fe88d6436a59b, type: 3}
-        m_TargetAssemblyTypeName: cambiar_escena, Assembly-CSharp
-        m_MethodName: cambiarEscena
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: mascota
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &9203496503151550637
 GameObject:
   m_ObjectHideFlags: 0

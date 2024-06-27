@@ -7,7 +7,7 @@
                 {
                     "ID_Rutina": "44666153-8387-40c5-a8e4-92b286a39031",
                     "Nombre_Rutina": "si",
-                    "Porcentaje_Rutina": "0",
+                    "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
                 },
                 {
@@ -19,13 +19,13 @@
                 {
                     "ID_Rutina": "6c44b48b-a52a-47ad-b42e-197051f3bce8",
                     "Nombre_Rutina": "w",
-                    "Porcentaje_Rutina": "0",
+                    "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
                 },
                 {
-                    "ID_Rutina": "39e7f565-ff11-4128-bb7b-bc7b1ece37a8",
-                    "Nombre_Rutina": "q",
-                    "Porcentaje_Rutina": "0",
+                    "ID_Rutina": "bd8a834f-295d-49c5-8456-5f73ea550297",
+                    "Nombre_Rutina": "dormir",
+                    "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
                 }
             ],

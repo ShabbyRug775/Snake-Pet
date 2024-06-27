@@ -388,6 +388,7 @@
 "Assets/Scripts/consultasRutinasCompletas.cs"
 "Assets/Scripts/ControladorMostrarDatos.cs"
 "Assets/Scripts/ControladorRutinas.cs"
+"Assets/Scripts/Controlador_mostrar_tareas.cs"
 "Assets/Scripts/formulario.cs"
 "Assets/Scripts/FormularioRutina.cs"
 "Assets/Scripts/MostrarDatos.cs"

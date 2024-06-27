@@ -15,10 +15,18 @@ public class PersistentManager : MonoBehaviour
     // Diccionario para almacenar posiciones específicas para ciertas escenas
     private Dictionary<string, Vector2> scenePositions = new Dictionary<string, Vector2>
     {
-        { "per_mascota", new Vector2(150, 0) },
-        { "tienda", new Vector2(150, 0) },
-        { "mascota", new Vector2(-90, 0) }
+        { "per_mascota", new Vector2(812, 250) },
+        { "tienda", new Vector2(812, 250) }
     };
+
+    // Lista de nombres de escenas donde el objeto debe estar presente pero no visible
+    private List<string> invisibleScenes = new List<string>
+    {
+        "ver_tareas"
+    };
+
+    private SpriteRenderer spriteRenderer;
+    private Renderer[] renderers;
 
     void Awake()
     {
@@ -30,6 +38,9 @@ public class PersistentManager : MonoBehaviour
 
         instance = this;
         DontDestroyOnLoad(gameObject);
+
+        // Obtener todos los componentes Renderer del objeto
+        renderers = GetComponentsInChildren<Renderer>();
     }
 
     void OnEnable()
@@ -50,10 +61,20 @@ public class PersistentManager : MonoBehaviour
             Destroy(gameObject);
             instance = null; // Resetear la instancia para permitir que se vuelva a crear en escenas no excluidas
         }
-        else if (scenePositions.ContainsKey(scene.name))
+        else
         {
             // Cambiar la posición del objeto si la escena está en el diccionario
-            transform.position = scenePositions[scene.name];
+            if (scenePositions.ContainsKey(scene.name))
+            {
+                transform.position = scenePositions[scene.name];
+            }
+
+            // Ocultar el objeto si la escena está en la lista de escenas invisibles
+            bool shouldHide = invisibleScenes.Contains(scene.name);
+            foreach (var renderer in renderers)
+            {
+                renderer.enabled = !shouldHide;
+            }
         }
     }
 }

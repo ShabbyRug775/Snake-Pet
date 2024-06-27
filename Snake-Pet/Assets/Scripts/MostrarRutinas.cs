@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using System.IO;
+using UnityEngine.UI;
 
 public class MostrarRutinas : MonoBehaviour
 {
@@ -12,6 +13,8 @@ public class MostrarRutinas : MonoBehaviour
 
     // Referencia al TMP_Text que contiene el nombre del usuario
     public TMP_Text nombreUsuarioText;
+
+    private List<Rutina> currentRutinas = new List<Rutina>();
 
     private void Start()
     {
@@ -25,10 +28,10 @@ public class MostrarRutinas : MonoBehaviour
             return;
         }
 
-        consultasRutinas();
+        ConsultasRutinas();
     }
 
-    private void consultasRutinas()
+    private void ConsultasRutinas()
     {
         if (File.Exists(filePath))
         {
@@ -42,6 +45,7 @@ public class MostrarRutinas : MonoBehaviour
             Usuario usuario = usuariosData.usuarios.Find(u => u.Nombre == nombreUsuario);
             if (usuario != null)
             {
+                currentRutinas = usuario.Rutinas;
                 // Mostrar las rutinas del usuario encontrado
                 foreach (var rutina in usuario.Rutinas)
                 {
@@ -67,6 +71,20 @@ public class MostrarRutinas : MonoBehaviour
                     {
                         nombreRutinaText.text = rutina.Nombre_Rutina;
                     }
+
+                    // Encontrar los botones dentro del prefab y añadirles listeners
+                    Button completarButton = rutinaObj.transform.Find("CompletarButton").GetComponent<Button>();
+                    Button eliminarButton = rutinaObj.transform.Find("EliminarButton").GetComponent<Button>();
+
+                    if (completarButton != null)
+                    {
+                        completarButton.onClick.AddListener(() => CompletarRutina(rutina, rutinaObj));
+                    }
+
+                    if (eliminarButton != null)
+                    {
+                        eliminarButton.onClick.AddListener(() => EliminarRutina(rutina, rutinaObj));
+                    }
                 }
             }
             else
@@ -80,4 +98,34 @@ public class MostrarRutinas : MonoBehaviour
         }
     }
 
+    private void CompletarRutina(Rutina rutina, GameObject rutinaObj)
+    {
+        rutina.Porcentaje_Rutina = "100";
+        SaveJsonChanges();
+        Destroy(rutinaObj);
+    }
+
+    private void EliminarRutina(Rutina rutina, GameObject rutinaObj)
+    {
+        currentRutinas.Remove(rutina);
+        SaveJsonChanges();
+        Destroy(rutinaObj);
+    }
+
+    private void SaveJsonChanges()
+    {
+        string jsonData = File.ReadAllText(filePath);
+        UsuariosData usuariosData = JsonUtility.FromJson<UsuariosData>(jsonData);
+
+        // Obtener el nombre de usuario desde TMP_Text
+        string nombreUsuario = nombreUsuarioText.text;
+        Usuario usuario = usuariosData.usuarios.Find(u => u.Nombre == nombreUsuario);
+
+        if (usuario != null)
+        {
+            usuario.Rutinas = currentRutinas;
+            jsonData = JsonUtility.ToJson(usuariosData, true);
+            File.WriteAllText(filePath, jsonData);
+        }
+    }
 }
