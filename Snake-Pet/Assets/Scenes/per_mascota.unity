@@ -446,7 +446,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 907985158}
-  - component: {fileID: 907985159}
   m_Layer: 0
   m_Name: ControladorMostrarDatos
   m_TagString: Untagged
@@ -469,21 +468,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 982644611}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &907985159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 907985157}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 926c04e73b07d3c4d8b3e5005918cfb2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  usuariosParent: {fileID: 2135103862}
-  partidaGuardadaPrefab: {fileID: 4198815625323578706, guid: 79b3b2279b028c74c855cc65c37cd619, type: 3}
-  verticalSpacing: 50
 --- !u!1 &969808731
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,24 +9,6 @@
                     "Nombre_Rutina": "si",
                     "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
-                },
-                {
-                    "ID_Rutina": "01eb5453-d26d-4dd5-be7c-273cd8f6c113",
-                    "Nombre_Rutina": "a",
-                    "Porcentaje_Rutina": "100",
-                    "Fecha_Rutina": "2024-06-27"
-                },
-                {
-                    "ID_Rutina": "6c44b48b-a52a-47ad-b42e-197051f3bce8",
-                    "Nombre_Rutina": "w",
-                    "Porcentaje_Rutina": "100",
-                    "Fecha_Rutina": "2024-06-27"
-                },
-                {
-                    "ID_Rutina": "bd8a834f-295d-49c5-8456-5f73ea550297",
-                    "Nombre_Rutina": "dormir",
-                    "Porcentaje_Rutina": "100",
-                    "Fecha_Rutina": "2024-06-27"
                 }
             ],
             "Mascotas": []
@@ -38,13 +20,7 @@
                 {
                     "ID_Rutina": "31df4038-26ae-49f7-b1ba-44294f03b187",
                     "Nombre_Rutina": "a",
-                    "Porcentaje_Rutina": "0",
-                    "Fecha_Rutina": "2024-06-27"
-                },
-                {
-                    "ID_Rutina": "25ce47b4-b22c-4f99-a5c2-6b1c527259b9",
-                    "Nombre_Rutina": "q",
-                    "Porcentaje_Rutina": "0",
+                    "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
                 }
             ],

@@ -399,6 +399,8 @@
 "Assets/Scripts/PersistentManager.cs"
 "Assets/Scripts/salir_aplicacion.cs"
 "Assets/Scripts/sesion_activa.cs"
+"Assets/Scripts/SnakeAddSingleton.cs"
+"Assets/Scripts/Snake_add.cs"
 "Assets/Scripts/UsuarioSeleccionado.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

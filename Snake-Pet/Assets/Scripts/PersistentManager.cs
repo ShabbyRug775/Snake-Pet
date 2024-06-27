@@ -9,7 +9,7 @@ public class PersistentManager : MonoBehaviour
     // Lista de nombres de escenas donde el objeto no debe persistir
     private List<string> excludedScenes = new List<string>
     {
-        "crear_cuenta", "crear_tarea", "Menu_Principal", "seleccion_cuenta", "tareas_hechas", "ver_tareas"
+        "crear_cuenta", "Menu_Principal", "seleccion_cuenta"
     };
 
     // Diccionario para almacenar posiciones específicas para ciertas escenas
@@ -22,7 +22,7 @@ public class PersistentManager : MonoBehaviour
     // Lista de nombres de escenas donde el objeto debe estar presente pero no visible
     private List<string> invisibleScenes = new List<string>
     {
-        "ver_tareas"
+        //"ver_tareas", "tareas_hechas", "crear_tarea"
     };
 
     private SpriteRenderer spriteRenderer;
