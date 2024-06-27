@@ -49,7 +49,6 @@ public class formulario : MonoBehaviour
 {
     public TMP_InputField nombreInput;
     public Button guardarButton;
-    public GameObject Serpiente; // Prefab del GameObject de la mascota
     private string filePath;
 
     private void Start()
