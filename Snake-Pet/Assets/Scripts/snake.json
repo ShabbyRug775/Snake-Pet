@@ -1,37 +1,8 @@
 {
     "usuarios": [
         {
-            "ID_Usuario": "30f78a72-7818-4fb0-a098-0a6b66c18396",
-            "Nombre": "asdasd",
-            "Password": "asdasd",
-            "Rutinas": [],
-            "Mascotas": []
-        },
-        {
-            "ID_Usuario": "11eb68e1-357b-47ac-9df7-4234e66d0b95",
-            "Nombre": "Moises",
-            "Password": "si",
-            "Rutinas": [],
-            "Mascotas": []
-        },
-        {
-            "ID_Usuario": "e047ad47-1a23-4580-af30-c6b492d63235",
-            "Nombre": "Si",
-            "Password": "si",
-            "Rutinas": [],
-            "Mascotas": []
-        },
-        {
-            "ID_Usuario": "3c2496bc-9ed4-40fa-80ad-bf8252fa2c0e",
-            "Nombre": "as",
-            "Password": "sa",
-            "Rutinas": [],
-            "Mascotas": []
-        },
-        {
-            "ID_Usuario": "cfdb647d-b575-4beb-b17d-83f4fcd17b7c",
-            "Nombre": "asd",
-            "Password": "asda",
+            "ID_Usuario": "0c412bd8-59e3-4532-afb6-fcdbcde11d34",
+            "Nombre": "moises",
             "Rutinas": [],
             "Mascotas": []
         }
