@@ -3,23 +3,16 @@
         {
             "ID_Usuario": "0c412bd8-59e3-4532-afb6-fcdbcde11d34",
             "Nombre": "moises",
-            "Rutinas": [
-                {
-                    "ID_Rutina": "44666153-8387-40c5-a8e4-92b286a39031",
-                    "Nombre_Rutina": "si",
-                    "Porcentaje_Rutina": "100",
-                    "Fecha_Rutina": "2024-06-27"
-                }
-            ],
+            "Rutinas": [],
             "Mascotas": []
         },
         {
-            "ID_Usuario": "45368a52-9f19-453e-912e-65622ce769c1",
-            "Nombre": "angie",
+            "ID_Usuario": "0ab83dd2-c6eb-4926-bc1f-6783d98e5681",
+            "Nombre": "prueba",
             "Rutinas": [
                 {
-                    "ID_Rutina": "31df4038-26ae-49f7-b1ba-44294f03b187",
-                    "Nombre_Rutina": "a",
+                    "ID_Rutina": "e8d20e52-14d5-40c7-b0fb-8a4b00f92eb3",
+                    "Nombre_Rutina": "sacar 10 en fepi",
                     "Porcentaje_Rutina": "100",
                     "Fecha_Rutina": "2024-06-27"
                 }

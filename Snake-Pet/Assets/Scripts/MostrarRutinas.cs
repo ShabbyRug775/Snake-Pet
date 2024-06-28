@@ -108,6 +108,18 @@ public class MostrarRutinas : MonoBehaviour
         currentRutinas.Remove(rutina);
         SaveJsonChanges();
         Destroy(rutinaObj);
+
+        // Acceder al Singleton de SnakeAddSingleton para obtener la referencia de snake
+        Snake_add snake = SnakeAddSingleton.Instance.snake;
+        if (snake != null)
+        {
+            snake.RemoveAllBodyParts();
+        }
+        else
+        {
+            Debug.LogError("Referencia a Snake_add no encontrada.");
+        }
+
     }
 
     private void SaveJsonChanges()

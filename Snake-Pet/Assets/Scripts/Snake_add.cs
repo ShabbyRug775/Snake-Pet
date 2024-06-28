@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class Snake_add : MonoBehaviour
 {
@@ -25,7 +27,7 @@ public class Snake_add : MonoBehaviour
             slot.transform.SetParent(cuerpoParent);  // Asignar como hijo del cuerpoParent
 
             // Ajustar posición local del slot en relación con el padre Serpiente
-            slot.transform.localPosition = new Vector3(110f + i * slotSpacingX, 0f, 0f);
+            slot.transform.localPosition = new Vector3(110f + i * 20f, 0f, 0f); // Ajustar el espaciado entre los slots
 
             cuerpoSlots[i] = slot.transform;  // Asignar al array de cuerpoSlots
         }
@@ -56,6 +58,21 @@ public class Snake_add : MonoBehaviour
         {
             Debug.LogWarning("No hay más slots disponibles para el cuerpo.");
         }
+    }
+
+    public void RemoveAllBodyParts()
+    {
+        // Recorrer todos los slots y destruir los GameObjects de Cuerpo6
+        for (int i = 0; i < cuerpoSlots.Length; i++)
+        {
+            if (cuerpoSlots[i] != null && cuerpoSlots[i].childCount > 0)
+            {
+                Destroy(cuerpoSlots[i].GetChild(0).gameObject);
+            }
+        }
+
+        // Resetear la posición de la cola a su posición inicial
+        ResetColaPosition();
     }
 
     // Método para encontrar el siguiente slot disponible para el cuerpo
@@ -92,6 +109,16 @@ public class Snake_add : MonoBehaviour
         else
         {
             Debug.LogWarning("No se encontró el gameObject 'Cola'. Asegúrate de que esté configurado correctamente.");
+        }
+    }
+
+    // Método para resetear la posición de la cola a su posición inicial
+    private void ResetColaPosition()
+    {
+        Transform cola = cuerpoParent.Find("Cola");
+        if (cola != null)
+        {
+            cola.localPosition = new Vector3(135f, -3.8f, 0f);
         }
     }
 }

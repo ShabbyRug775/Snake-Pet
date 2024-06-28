@@ -22,7 +22,7 @@ public class PersistentManager : MonoBehaviour
     // Lista de nombres de escenas donde el objeto debe estar presente pero no visible
     private List<string> invisibleScenes = new List<string>
     {
-        //"ver_tareas", "tareas_hechas", "crear_tarea"
+        //"tareas_hechas", "crear_tarea"
     };
 
     private SpriteRenderer spriteRenderer;

@@ -56,15 +56,22 @@ public class formulario : MonoBehaviour
         // Establecer la ruta del archivo JSON en la carpeta de Assets
         filePath = Path.Combine(Application.dataPath, "Scripts/snake.json");
 
+        // Verificar si el archivo JSON existe, si no existe, crearlo con datos vacíos
+        if (!File.Exists(filePath))
+        {
+            File.WriteAllText(filePath, JsonUtility.ToJson(new UsuariosData()));
+        }
+
         // Verificar si los InputFields están asignados correctamente
         if (nombreInput == null)
         {
             Debug.LogError("Los campos de entrada no están asignados correctamente en el Inspector.");
             return;
-        } 
+        }
 
         guardarButton.onClick.AddListener(GuardarUsuario);
     }
+
 
     public void Update()
     {
@@ -73,8 +80,8 @@ public class formulario : MonoBehaviour
         {
             // Si el campo de nombre está vacío, el botón se desactiva
             guardarButton.interactable = false;
-        } 
-        else 
+        }
+        else
         {
             // Si el campo de nombre tiene algo, el botón se activa
             guardarButton.interactable = true;
